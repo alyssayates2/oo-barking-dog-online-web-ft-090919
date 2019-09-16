@@ -7,6 +7,10 @@ class Dog
   def name
     @this_dogs_name
   end
+
+  do fido.bark 
+    puts "woof!"
+  end 
 end
 
 fido = Dog.new

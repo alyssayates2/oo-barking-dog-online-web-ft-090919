@@ -3,4 +3,4 @@ class Dog
   fido.name = "Fido"
 
   fido.name 
-end 
+end

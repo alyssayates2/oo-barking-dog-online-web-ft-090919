@@ -8,7 +8,7 @@ class Dog
     @this_dogs_name
   end
 
-  do fido.bark 
+  do fido.bark
     puts "woof!"
   end 
 end

@@ -15,7 +15,7 @@ end
 def bark
   @this_dogs_ability
  end
-end 
+end
 
 fido = Dog.new
 fido.name = "Fido"

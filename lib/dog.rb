@@ -12,14 +12,12 @@ class Dog
     @this_dogs_ability = dogs_bark
 end
 
-def bark 
+def bark
   @this_dogs_ability
- end 
+ end
 end 
 
 fido = Dog.new
 fido.name = "Fido"
 
-puts fido.name 
-
-
+puts fido.name

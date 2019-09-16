@@ -18,7 +18,7 @@ def bark
   puts "woof!"
 end
 
-fido = Dog.bark 
+fido = Dog.bark
 fido.bark = "woof!"
 
 puts fido.bark 

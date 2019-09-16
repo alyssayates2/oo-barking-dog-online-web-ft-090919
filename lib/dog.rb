@@ -20,4 +20,4 @@ def bark
  end
 
  fido.bark
-end
+

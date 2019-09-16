@@ -16,4 +16,5 @@ puts fido.name
 
 
 def bark
+  puts "woof!"
 end 

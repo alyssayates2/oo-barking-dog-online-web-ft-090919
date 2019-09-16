@@ -22,6 +22,5 @@ fido.name = "Fido"
 
 puts fido.name
 
- def fido.bark
-   puts "woof!"
- end
+bark = dogs_bark
+bark puts("woof!")

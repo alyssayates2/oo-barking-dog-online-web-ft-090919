@@ -16,10 +16,6 @@ puts fido.name
 
 
 def bark
-  def initialize
-end
-
-def bark
   puts "woof!"
  end
 
